@@ -1,0 +1,7 @@
+*.pt
+*.pth
+*.bin
+*.safetensors
+data/
+checkpoints/
+.ipynb_checkpoints/
